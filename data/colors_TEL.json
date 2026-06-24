@@ -1,14 +1,10 @@
 {
-	"CSC":["#92D050","Ciencias Básicas"],
-	"SW":["#813FA0","Software"],
-	"FIS":["#00838F","Física"],
-	"TIN":["#C54B73","Transversal e Integración"],
-	"FG":["#1B57C9","Formación General"],
-	"DEW":["#BFBFBF","Deportes"],
-	"REDES":["#FF7B7B","Redes"],
-	"ENG":["#00B0F0","Inglés"],
-	"ELO":["#AEA3C2","Electrónica"],
-	"TELECO":["#D6D600","Telecomunicaciones"],
-	"IND":["#6BA8D1","Industrias"],
-	"COMPL":["#F0DF82","Complementarios"]
+  "CB": ["#00838F", "Ciencias Básicas"],
+  "HUM": ["#F9A825", "Humanidades y Deportes"],
+  "INF": ["#2E7D32", "Informática"],
+  "TEL": ["#1565C0", "Telemática"],
+  "ELO": ["#C62828", "Electrónica"],
+  "IND": ["#6A1B9A", "Industrias y Negocios"],
+  "PROY": ["#424242", "Proyectos e Integración"],
+  "ELEC": ["#00695C", "Electivos"]
 }
